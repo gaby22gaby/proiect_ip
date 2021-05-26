@@ -1,0 +1,12 @@
+1.Nedelcu Alin
+->Interfata cu utilizatorul
+->Diagrame UML
+->Tabele mysql
+->Documentatie
+->Antet cu  informatii despre autor si functionalitate
+
+2.Balta Gabriel-Constantin
+->Tratare exceptii
+->Implementarea fiecarui modul intr-un DLL separat.
+->Comentarea programului
+->Sablon de proiectare

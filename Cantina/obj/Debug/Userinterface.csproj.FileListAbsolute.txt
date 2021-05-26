@@ -1,0 +1,15 @@
+D:\Git_F\alin\proiect_ip\bin\Debug\Cantina.exe.config
+D:\Git_F\alin\proiect_ip\bin\Debug\Cantina.exe
+D:\Git_F\alin\proiect_ip\bin\Debug\Cantina.pdb
+D:\Git_F\alin\proiect_ip\obj\Debug\Userinterface.csprojAssemblyReference.cache
+D:\Git_F\alin\proiect_ip\obj\Debug\Cantina.Form1.resources
+D:\Git_F\alin\proiect_ip\obj\Debug\Cantina.InregistrareUC.resources
+D:\Git_F\alin\proiect_ip\obj\Debug\Cantina.Locatie.resources
+D:\Git_F\alin\proiect_ip\obj\Debug\Cantina.LoginUC.resources
+D:\Git_F\alin\proiect_ip\obj\Debug\Cantina.MeniuUC.resources
+D:\Git_F\alin\proiect_ip\obj\Debug\Cantina.OrarUC.resources
+D:\Git_F\alin\proiect_ip\obj\Debug\Cantina.Properties.Resources.resources
+D:\Git_F\alin\proiect_ip\obj\Debug\Userinterface.csproj.GenerateResource.cache
+D:\Git_F\alin\proiect_ip\obj\Debug\Userinterface.csproj.CoreCompileInputs.cache
+D:\Git_F\alin\proiect_ip\obj\Debug\Cantina.exe
+D:\Git_F\alin\proiect_ip\obj\Debug\Cantina.pdb
